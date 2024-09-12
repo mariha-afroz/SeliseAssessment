@@ -1,0 +1,11 @@
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

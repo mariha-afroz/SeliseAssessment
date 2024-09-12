@@ -1,0 +1,9 @@
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\ProductService\obj\Debug\net8.0\ProductService.csproj.AssemblyReference.cache
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\ProductService\obj\Debug\net8.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfoInputs.cache
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfo.cs
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\ProductService\obj\Debug\net8.0\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\ProductService\obj\Debug\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\ProductService\obj\Debug\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\ProductService\obj\Debug\net8.0\ProductService.RazorAssemblyInfo.cache
+C:\Users\Monjirul\source\repos\OrderAndProductManagementSystem\ProductService\obj\Debug\net8.0\ProductService.RazorAssemblyInfo.cs
